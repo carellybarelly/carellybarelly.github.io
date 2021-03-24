@@ -43,6 +43,7 @@ hr:after {
   overflow: hidden;
   margin: auto;
   background-color: #17171e;
+  font-family: "Quicksand", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   /*border-bottom-style: solid;
   border-bottom-color: #ff9bb4;
   border-bottom-width: 1px;*/
