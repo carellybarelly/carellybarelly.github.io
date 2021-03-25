@@ -142,17 +142,18 @@ p{
 .styled_intro {
   font-family: 'CoreCircus', sans-serif;
   text-transform: uppercase;
-  font-size: 14vw;
+  font-size: 3em;
   text-align: center;
-  line-height: 1;
+  line-height: 85%
   font-weight: normal;
-  margin: 0;
+  margin-bottom: 5%;
+  margin-top: 5%;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   position: absolute;
   color: $red;
-  letter-spacing: -0.8rem;
+  /*letter-spacing: -0.8rem;*/
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white, 1px 0px 0px $blue, 0px 1px 0px $blue, 2px 1px 0px $blue, 1px 2px 0px $blue, 3px 2px 0px $blue, 2px 3px 0px $blue, 4px 3px 0px $blue, 3px 4px 0px $blue, 5px 4px 0px $blue, 4px 5px 0px $blue, 6px 5px 0px $blue, 5px 6px 0px $blue, 7px 6px 0px $blue, 8px 7px 0px white, 9px 8px 0px white;
   
   &:before {
