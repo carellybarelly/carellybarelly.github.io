@@ -397,6 +397,8 @@ textarea:focus {
 
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
+  position: absolute;
+  right: 100%;
 }
 
 section #social_links {
@@ -485,13 +487,6 @@ section #social_links li span {
 
 
 /* The "responsive" class is added to the navbar with JavaScript when the user clicks on the icon. This class makes the navbar look good on small screens */
-
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-   @font-face {
-      font-family: 'entypo';
-      src: url('path to entypo.svg#entypo') format('svg');
-   }
-}
 
 @media screen and (max-width:875px) {
   .navbar.responsive {
