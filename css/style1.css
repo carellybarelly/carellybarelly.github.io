@@ -21,7 +21,7 @@ $blue: #98b5cc;*/
 
 html,
 body {
-  background: rgba(250,248,239,1);
+  background: #edd5c9;
   width: 100%;
   height: 100%;
 }
@@ -111,7 +111,7 @@ hr:after {
 }
 
 p{
-  color: white;
+  color: #b08691;
   font-size: 18px;
   font-family: Quicksand;
 }
