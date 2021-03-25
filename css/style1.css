@@ -21,7 +21,7 @@ $blue: #98b5cc;*/
 
 html,
 body {
-  background: #f0e2e1; /*peach colour*/
+  background: #a8d0e7; /*light blue colour*/
   width: 100%;
   height: 100%;
 }
@@ -57,7 +57,7 @@ hr:after {
   z-index: 100;
   overflow: hidden;
   margin: auto;
-  background-color: #e78580; /*darker peach colour*/
+  background-color: #a8d0e7; /*light blue colour*/
   font-family: "Merriweather", "Quicksand", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   /*border-bottom-style: solid;
   border-bottom-color: #ff9bb4;
@@ -84,7 +84,7 @@ hr:after {
 
 .navbar li.navbar_items a:hover {
   border-bottom-style: solid;
-  border-bottom-color: #f0e2e1; /*same colour as bg*/
+  border-bottom-color: #24305e; /*same colour as bg*/
   /*   padding-bottom: 5px; */
 }
 
@@ -111,7 +111,7 @@ hr:after {
 }
 
 p{
-  color: #24305e; /*dark blue colour*/
+  color: white; /*dark blue colour*/
   font-size: 18px;
   font-family: Quicksand;
 }
@@ -122,7 +122,7 @@ p{
   font-size: 3em;
   line-height: 85%;
   color: #ec7b7f; /*dark red colour*/
-  text-shadow: 4px 4px 0 rgba(169,63,77,255); /*darker red colour*/
+  text-shadow: 4px 4px 0 rgb(193,86,95); /*darker red colour*/
   margin-bottom: 5%;
   margin-top: 5%;
 }
@@ -195,14 +195,14 @@ p{
 .tabs li:hover {}
 
 .tab_content {
-  background: rgba(83,91,133,255);
+  background: rgba(243,221,219,255);
   text-align: center;
   margin: auto;
   font-family: 'Quicksand';
   font: 16px;
   color: white;
   padding: 3%;
-  border: thick solid #728cbc;
+  border: thick solid #ec7b7f;
   border-radius: 10px;
   height: 100%;
   overflow: hidden;
