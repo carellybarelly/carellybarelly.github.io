@@ -21,7 +21,7 @@ $blue: #98b5cc;*/
 
 html,
 body {
-  background: #fab86e;
+  background: #f0e2e1; /*peach colour*/
   width: 100%;
   height: 100%;
 }
@@ -57,7 +57,7 @@ hr:after {
   z-index: 100;
   overflow: hidden;
   margin: auto;
-  background-color: #feecae;
+  background-color: #e78580; /*darker peach colour*/
   font-family: "Merriweather", "Quicksand", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   /*border-bottom-style: solid;
   border-bottom-color: #ff9bb4;
@@ -84,7 +84,7 @@ hr:after {
 
 .navbar li.navbar_items a:hover {
   border-bottom-style: solid;
-  border-bottom-color:#ff9bb4;
+  border-bottom-color: #f0e2e1; /*same colour as bg*/
   /*   padding-bottom: 5px; */
 }
 
@@ -111,7 +111,7 @@ hr:after {
 }
 
 p{
-  color: #bcbaba;
+  color: #24305e; /*dark blue colour*/
   font-size: 18px;
   font-family: Quicksand;
 }
@@ -121,8 +121,8 @@ p{
   font-family: 'Arsenal', sans-serif;
   font-size: 3em;
   line-height: 85%;
-  color: #abd6dd;
-  text-shadow: 4px 4px 0 rgba(47,60,102,255);
+  color: #ec7b7f; /*dark red colour*/
+  text-shadow: 4px 4px 0 rgba(169,63,77,255); /*darker red colour*/
   margin-bottom: 5%;
   margin-top: 5%;
 }
