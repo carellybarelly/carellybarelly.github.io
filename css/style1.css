@@ -105,7 +105,8 @@ p{
 
 .styled_intro {
   text-align: center;
-  font-family: "League-Gothic", Courier;
+  font-family: 'Pacifico', cursive;
+  #font-family: "League-Gothic", Courier;
   font-size: 3em;
   line-height: 85%;
   color: white;
