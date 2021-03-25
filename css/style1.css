@@ -2,6 +2,7 @@
 @import 'http://fonts.googleapis.com/css?family=Quicksand';
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
 
 /* pink color: #ff9bb4 */
 
@@ -44,7 +45,7 @@ hr:after {
   overflow: hidden;
   margin: auto;
   background-color: #17171e;
-  font-family: "Quicksand", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Merriweather", "Quicksand", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   /*border-bottom-style: solid;
   border-bottom-color: #ff9bb4;
   border-bottom-width: 1px;*/
@@ -60,7 +61,6 @@ hr:after {
 }
 
 .navbar li a {
-  font-family: 'Pacifico', cursive;
   font-size: 1.05em;
   color: white;
   display: inline-block;
