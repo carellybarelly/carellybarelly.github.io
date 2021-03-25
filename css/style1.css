@@ -8,9 +8,13 @@
 
 
 /* dark background-color:#17171e */
+/* light background-color:#eee2dc */
+/* light background-color:#ac3b61 */
+/* light navbar background-color:#edc7b7 */
+
 
 body {
-  background-color: #17171e;
+  background-color: #eee2dc;
 }
 
 hr {
@@ -44,7 +48,7 @@ hr:after {
   z-index: 100;
   overflow: hidden;
   margin: auto;
-  background-color: #17171e;
+  background-color: #edc7b7;
   font-family: "Merriweather", "Quicksand", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   /*border-bottom-style: solid;
   border-bottom-color: #ff9bb4;
