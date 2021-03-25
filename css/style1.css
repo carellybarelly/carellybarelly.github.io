@@ -53,10 +53,6 @@ hr:after {
   top: 0;
 }
 
-.navbar li.logo {
-  font-family: 'Pacifico', cursive;
-}
-
 .navbar li.logo,
 .navbar li.navbar_items {
   list-style-type: none;
@@ -64,7 +60,7 @@ hr:after {
 }
 
 .navbar li a {
-  font-family: Quicksand;
+  font-family: 'Pacifico', cursive;
   font-size: 1.05em;
   color: white;
   display: inline-block;
