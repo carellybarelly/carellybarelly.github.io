@@ -3,6 +3,7 @@
 @import url(http://weloveiconfonts.com/api/?family=entypo);
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap')
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arsenal:wght@700&display=swap');
 
 /* pink color: #ff9bb4 */
 
@@ -109,8 +110,8 @@ p{
 
 .styled_intro {
   text-align: center;
-  font-family: 'Pacifico', cursive;
-  #font-family: "League-Gothic", Courier;
+  font-family: 'Arsenal', sans-serif;
+  /*font-family: "League-Gothic", Courier;*/
   font-size: 3em;
   line-height: 85%;
   color: white;
