@@ -61,7 +61,7 @@ hr:after {
   z-index: 100;
   overflow: hidden;
   margin: auto;
-  background-color: #f8f8fb; /*white colour*/
+  background-color: #1a2238; /*blue colour*/
   font-family: "aperature", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   /*border-bottom-style: solid;
   border-bottom-color: #ff9bb4;
@@ -79,7 +79,7 @@ hr:after {
 
 .navbar li a {
   font-size: 1.05em;
-  color: white;
+  color: #ff6a3d; /*orange*/
   display: inline-block;
   text-align: center;
   padding: 10px 16px;
@@ -88,7 +88,7 @@ hr:after {
 
 .navbar li.navbar_items a:hover {
   border-bottom-style: solid;
-  border-bottom-color: #24305e; /*same colour as bg*/
+  border-bottom-color: #f9db6d; /*yellow*/
   /*   padding-bottom: 5px; */
 }
 
