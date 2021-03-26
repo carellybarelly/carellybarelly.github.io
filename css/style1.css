@@ -25,7 +25,7 @@ font-weight: 400;*/
 
 html,
 body {
-  background: #1A2238; /*dark blue colour*/
+  background: #f8f8fb; /*white colour*/
   width: 100%;
   height: 100%;
 }
@@ -61,7 +61,7 @@ hr:after {
   z-index: 100;
   overflow: hidden;
   margin: auto;
-  background-color: #a8d0e7; /*light blue colour*/
+  background-color: #f8f8fb; /*white colour*/
   font-family: "aperature", "Palatino Linotype", "Book Antiqua", Palatino, serif;
   /*border-bottom-style: solid;
   border-bottom-color: #ff9bb4;
@@ -115,7 +115,7 @@ hr:after {
 }
 
 p{
-  color: white; /*dark blue colour*/
+  color: #29375b; /*dark blue colour*/
   font-size: 18px;
   font-family: apertura, sans-serif;
 }
@@ -125,8 +125,8 @@ p{
   font-family: 'Arsenal', sans-serif;
   font-size: 3em;
   line-height: 85%;
-  color: #ec7b7f; /*dark red colour*/
-  text-shadow: 4px 4px 0 rgb(193,86,95); /*darker red colour*/
+  color: #ff6a3d; /*dark red colour*/
+  text-shadow: 4px 4px 0 rgb(255,150,119); /*peach colour*/
   margin-bottom: 5%;
   margin-top: 5%;
 }
